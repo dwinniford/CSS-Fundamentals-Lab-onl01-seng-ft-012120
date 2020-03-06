@@ -33,5 +33,7 @@ figcaption {
   display: block;
 }
 #details div {
-  float: left
+  float: left;
+  background-color: aliceblue;
+  
 }
