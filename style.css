@@ -8,6 +8,7 @@ h1  {
   color: blue 
 }
 
-header, figure {
+header, figure, nav {
   text-align: center 
 }
+
